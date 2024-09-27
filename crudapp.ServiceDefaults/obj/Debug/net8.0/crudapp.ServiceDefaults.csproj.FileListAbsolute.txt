@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\bin\Debug\net8.0\crudapp.ServiceDefaults.deps.json
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\bin\Debug\net8.0\crudapp.ServiceDefaults.dll
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\bin\Debug\net8.0\crudapp.ServiceDefaults.pdb
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.dll
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\refint\crudapp.ServiceDefaults.dll
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\crudapp.ServiceDefaults.pdb
+C:\Users\Lenovo\source\repos\crudapp\crudapp.ServiceDefaults\obj\Debug\net8.0\ref\crudapp.ServiceDefaults.dll

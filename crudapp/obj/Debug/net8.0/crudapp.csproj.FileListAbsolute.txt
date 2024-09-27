@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\crudapp\crudapp\obj\Debug\net8.0\crudapp.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nhi0J3DmdlHo1Tm9kpAAXZM5mg8T3GTM0re8clegCIE=",
+  "Source": "crudapp.ApiService",
+  "BasePath": "_content/crudapp.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
